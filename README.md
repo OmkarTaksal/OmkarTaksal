@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @OmkarTaksal
-- 👀 I’m interested in CyberSecuritys
-- 🌱 I’m currently learning a LINUX Operating System
-- 💞️ I’m looking to have any type of internship or work in field of Cybersecurity.
-- 📫 How to reach me by my linkdin profile OmkarTaksal
+These programs are uploaded for learning, practice, and tracking my programming progress in C, C++, Java.
+
+## Topics Covered
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Functions
+- Pattern Printing
+- Arrays
+- Basic Logic Building
 
 <!---
 OmkarTaksal/OmkarTaksal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
