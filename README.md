@@ -1,4 +1,4 @@
-These programs are uploaded for learning, practice, and tracking my programming progress in C, C++, Java.
+These programs are uploaded for learning, practice, and tracking my programming progress in C, C++, Java, Python.
 
 ## Topics Covered
 - Variables and Data Types
